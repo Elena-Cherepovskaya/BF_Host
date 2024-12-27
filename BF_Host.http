@@ -1,0 +1,6 @@
+@BF_Host_HostAddress = http://localhost:5277
+
+POST {{BF_Host_HostAddress}}/api/login
+Accept: application/json
+
+###
